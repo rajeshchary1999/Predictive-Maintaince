@@ -17,6 +17,8 @@ Approach: The classical machine learning tasks like Data Exploration, Data Clean
 Feature Engineering, Model Building and Model Testing. Try out different machine
 learning algorithms that’s best fit for the above case.
 
+Heroku Link  : https://predictivemaintain.herokuapp.com/
+
 DataSet Link : https://www.kaggle.com/datasets/behrad3d/nasa-cmaps
 
 Click Here Sample Video : https://www.youtube.com/watch?v=LMzNh2Jl1Yg&feature=youtu.be
