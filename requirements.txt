@@ -1,7 +1,0 @@
-streamlit
-pandas
-numpy
-sklearn
-gunicorn
-sklearn-pandas
-scikit-learn
